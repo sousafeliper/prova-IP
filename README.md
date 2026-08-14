@@ -1,4 +1,4 @@
-# 🧠 Soluções: Prova de Introdução à Programação (BIA - UFG)
+# Soluções: Prova de Introdução à Programação (BIA - UFG)
 
 Este repositório reúne as resoluções desenvolvidas para a avaliação prática da disciplina de **Introdução à Programação**, integrante do 1º período do bacharelado em **Inteligência Artificial** na Universidade Federal de Goiás (UFG).
 
@@ -6,13 +6,13 @@ Sob a orientação do **Professor Leonardo Alves**, os desafios abordam desde fu
 
 ---
 
-## 🎓 Contexto Acadêmico
+## Contexto Acadêmico
 
 O projeto reflete o primeiro contato prático com o ecossistema Python no curso, demonstrando a aplicação de algoritmos em problemas do mundo real e a base necessária para o desenvolvimento de soluções voltadas à IA.
 
 ---
 
-## 📂 Conteúdo do Repositório
+## Conteúdo do Repositório
 
 A prova é composta por seis módulos que escalam em complexidade:
 
@@ -43,7 +43,7 @@ A prova é composta por seis módulos que escalam em complexidade:
 
 ---
 
-## 🛠️ Tecnologias e Bibliotecas
+## Tecnologias e Bibliotecas
 
 Para a resolução dos problemas, foram exploradas ferramentas essenciais da stack de dados e desenvolvimento Python:
 
@@ -55,7 +55,7 @@ Para a resolução dos problemas, foram exploradas ferramentas essenciais da sta
 
 ---
 
-## 🚀 Como Executar
+## Como Executar
 
 1. **Clone o repositório:**
 ```bash
@@ -82,7 +82,7 @@ python questao6.py
 
 ---
 
-## 👤 Autor
+## Autor
 
 **Felipe Rodrigues de Sousa**
 
